@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B4270</color>
+    <color name="colorPrimaryDark">#555C87</color>
+    <color name="colorAccent">#fff</color>
+
+    <color name="dasar">#3B4270</color>
+    <color name="borser">#25959E</color>
+    <color name="edittext">#615E5E</color>
+    <color name="bar">#007BA4</color>
+
+    <color name="button">#FFC809</color>
+
+    <color name="shadow">#030303</color>
+
+    <color name="blackPrimary">#21272c</color>
+</resources>

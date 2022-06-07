@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home_"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+
+
+    <item
+        android:id="@+id/level_air"
+        android:icon="@drawable/ic_graphic_eq_black_24dp"
+        android:title="Keruh Air" />
+
+    <item
+        android:id="@+id/keruh_air"
+        android:icon="@drawable/ic_grain_black_24dp"
+        android:title="Level Air" />
+    <item
+        android:title="Akun"
+        android:id="@+id/akun"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        />
+
+
+</menu>
